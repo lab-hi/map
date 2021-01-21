@@ -1,0 +1,27 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://lab-hi.github.io/map/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "国絵図",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "正保琉球国絵図写"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "正保琉球国八山島絵図"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "正保琉球国悪鬼納島絵図写"
+        }
+    ],
+    "vhint": "use-thumb"
+}

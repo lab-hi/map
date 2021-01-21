@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "正保琉球国悪鬼納島絵図写",
+    "license": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://lab-hi.github.io/map/iiif/3/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 14218,
+                    "images": [
+                        {
+                            "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/3.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 14218,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/3.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 24899
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/3.tif/full/97,/0/default.jpg"
+                    },
+                    "width": 24899
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/3.tif/full/97,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}
