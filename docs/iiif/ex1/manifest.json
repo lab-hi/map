@@ -1,0 +1,1827 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://lab-hi.github.io/map/iiif/ex1/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "琉球諸島図",
+    "sequences": [
+        {
+            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000010.tif/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000001.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000001.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000001.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p2",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000002.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000002.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000002.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000002.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p3",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000003.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000003.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000003.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000003.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p4",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000004.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000004.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000004.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000004.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p5",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000005.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000005.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000005.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000005.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p6",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000006.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000006.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000006.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000006.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p7",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000007.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000007.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000007.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000007.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p8",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000008.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000008.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000008.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000008.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p9",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000009.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000009.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000009.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000009.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                },
+                {
+                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 4912,
+                    "images": [
+                        {
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://clioimg.hi.u-tokyo.ac.jp/viewer/view/idata/0M0/_103ha_/185/canvas/p10",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000010.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000010.tif",
+                                    "height": 4912,
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "maxHeight": 5000,
+                                            "maxWidth": 5000,
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "height": 38,
+                                            "width": 51
+                                        },
+                                        {
+                                            "height": 76,
+                                            "width": 102
+                                        },
+                                        {
+                                            "height": 153,
+                                            "width": 204
+                                        },
+                                        {
+                                            "height": 307,
+                                            "width": 408
+                                        },
+                                        {
+                                            "height": 614,
+                                            "width": 817
+                                        },
+                                        {
+                                            "height": 1228,
+                                            "width": 1634
+                                        },
+                                        {
+                                            "height": 2456,
+                                            "width": 3269
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 6538
+                                },
+                                "width": 6538
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000010.tif/full/200,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/0M0/_103ha_/185/00000010.tif",
+                            "height": 4912,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level1.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "maxHeight": 5000,
+                                    "maxWidth": 5000,
+                                    "qualities": [
+                                        "native",
+                                        "color",
+                                        "gray",
+                                        "bitonal"
+                                    ],
+                                    "supports": [
+                                        "regionByPct",
+                                        "regionSquare",
+                                        "sizeByForcedWh",
+                                        "sizeByWh",
+                                        "sizeAboveFull",
+                                        "rotationBy90s",
+                                        "mirroring"
+                                    ]
+                                }
+                            ],
+                            "protocol": "http://iiif.io/api/image",
+                            "sizes": [
+                                {
+                                    "height": 38,
+                                    "width": 51
+                                },
+                                {
+                                    "height": 76,
+                                    "width": 102
+                                },
+                                {
+                                    "height": 153,
+                                    "width": 204
+                                },
+                                {
+                                    "height": 307,
+                                    "width": 408
+                                },
+                                {
+                                    "height": 614,
+                                    "width": 817
+                                },
+                                {
+                                    "height": 1228,
+                                    "width": 1634
+                                },
+                                {
+                                    "height": 2456,
+                                    "width": 3269
+                                }
+                            ],
+                            "tiles": [
+                                {
+                                    "height": 256,
+                                    "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "width": 256
+                                }
+                            ],
+                            "width": 6538
+                        }
+                    },
+                    "width": 6538
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ]
+}
