@@ -1,0 +1,213 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_hi/iiif/curation/all.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "正保琉球国絵図写",
+            "members": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22091,8346,125,163",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0002",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0002",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22091,8346,125,163",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0002\">shoho-oshima-0002</a> ]<br/>東間切<br/>分類: 村<br/>説明文: 千九百八十六石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22036,8072,143,164",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0003",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0003",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22036,8072,143,164",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0003\">shoho-oshima-0003</a> ]<br/>西目間切之内<br/>説明文: いしやく村<br/>分類: 村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21757,8016,140,159",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0004",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0004",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21757,8016,140,159",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0004\">shoho-oshima-0004</a> ]<br/>西目間切<br/>分類: 村<br/>説明文: 千五十石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21276,7967,120,164",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0005",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0005",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21276,7967,120,164",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0005\">shoho-oshima-0005</a> ]<br/>わん間切<br/>説明文: 千八百六十二石餘<br/>分類: 村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21079,8106,136,161",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0006",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0006",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21079,8106,136,161",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0006\">shoho-oshima-0006</a> ]<br/>荒木間切<br/>分類: 村<br/>説明文: 千三百二十二石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21269,8405,136,157",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0007",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0007",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21269,8405,136,157",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0007\">shoho-oshima-0007</a> ]<br/>荒木間切<br/>説明文: しつる村<br/>分類: 村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22491,8194,139,167",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0001",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0001",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22491,8194,139,167",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0001\">shoho-oshima-0001</a> ]<br/>志戸桶間切<br/>説明文: 七百十二石餘<br/>分類: 村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "正保琉球国絵図写"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}

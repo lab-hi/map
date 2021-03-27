@@ -1,0 +1,1657 @@
+[
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/RUPanRLobG7aQVVX8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wugtteesdsb8"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伊仙町阿権"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "正保国絵図"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh2uryqp2pn",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.300439
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.922234
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wugtz89sqz5q",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.733007
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.003819
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/8J9Ma2uCP5yEvUpW6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bsr1759nv"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村平田"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/Dpx2FAjmHSpkfy1GA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7t5drkmy2"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "知名町徳時"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh1kee6k1hs",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.364345
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.577395
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7ybvb3x65",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.382132
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.624907
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5cp7r4rgy5",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.319041
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.351995
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0008",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "説明文: かとく村"
+      },
+      {
+        "@value": "分類: 村"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "笠利間切之内"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/8qf2Xp1G3nPRZ5xn6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5buwtrpjkh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村宇検"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/wSa1NciDUYeA3swZ6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5btm6xvz87"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町久慈、現浜グリ﨑（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5buv2ysbku",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.286793
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.233418
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/MMyQgPXqSFXPw2mX7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5buv2ysbku"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大島郡宇検村大字久志 枝手久島\n、現赤﨑"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/27SaLgFNMGbY5LQX8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cjcrvge40"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村志戸勘、現ソン﨑"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7vc1qkzbk",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.384538
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.574919
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/K9fNh2ua3neKVu8D9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cp7r4rgy5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村大金久（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/9W1vhfh9JkQhLZnT6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cp7r4rgy5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）GＭ等で判断"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/kyEtuuvj8NFxuDD9A",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh1ezt5t2yg"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "龍郷町秋名　現武運崎（地理院）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/RWtjZaNFUxx8db5F8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cju8bdpc8"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村今里、現アヨ﨑"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/gmAXLdw4MkYP4DzV9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bshhexbvj"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町管鈍（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0001",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "説明文: 七百十二石餘"
+      },
+      {
+        "@value": "分類: 村"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "志戸桶間切"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7t5drkmy2",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.354486
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.54332
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/CuJjgj1GtBMVrAKY9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5buwtrpjkh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村大字宇検、現クラキ鼻"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/ugsqRzTkNdMqjDsk6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5btwndvzbh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町古志（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh3mb01w0w3"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "喜界町伊砂"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh2uuhnyp2k",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.280007
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.941054
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/bwbNnR6v6We3aGVy6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bs6deb78t"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町花天、現チチエン﨑（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh15efemxut",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.321981
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.532484
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bshhexbvj",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.235469
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.205738
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/7HqtH4c1e6oUx94WA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cp7r4rgy5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）Google map等で判断"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/KuTnAccJLxAnaxQq6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bg8vmsmf1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村屋鈍、現屋鈍﨑"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/FY6vdfqwVwSoxYZXA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cp7r4rgy5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村大金久、現ウツ﨑（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0002",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 村"
+      },
+      {
+        "@value": "説明文: 千九百八十六石餘"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "東間切"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/DkBkpxTAQePYFD85A",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bmyzw9peh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bndrstmnw",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.13816
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.319616
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/YgnWDb2d27HwZ1aHA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wugwqs8cdk9r"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "徳之島町花徳"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5cju8bdpc8",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.325628
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.277241
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/TnhcBS9NuZFgfeBW9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh15efemxut"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "名瀬市小湊、現仲干瀬﨑（地理院地図）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/Anw8arjo6o8YzHhZ7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bmyzw9peh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町小名瀬、現阿丹花﨑"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh3hccvrvrc",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.311324
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.938049
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/JJRwLDUaJ4UsoNZ29",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh3hccvrvrc"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "喜界町湾"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/8hm4kfsugULBJTb5A",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7vc1qkzbk"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "知名町上城・新城"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0007",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "説明文: しつる村"
+      },
+      {
+        "@value": "分類: 村"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "荒木間切"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bq5fenqp8",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.190092
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.290821
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh1u75d95fb",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.449546
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.566621
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wugebn38ss8w",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.412373
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.674129
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/XPxusfgywCvV4rUZ6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7t8371z76"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "知名町知名"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh3mb01w0w3",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.344987
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.979514
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5btm6xvz87",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.243101
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.257831
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5buwtrpjkh",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.293772
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.228707
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bsr1759nv",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.251864
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.212081
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/uNPQjv1a26MqSwX26",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh4n798j14q"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "笠利町屋仁・川上"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bu012pu0g",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.256858
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.201269
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/xK4t9Zt8NcxcSBrK6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5by6qunqkx"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村須古"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wugwqs8cdk9r",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.842385
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.958648
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/DRBXGBizoBwdmjWV8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5btwndvzbh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町古志"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/Aztabh6DE8Ur6B3E9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh15efemxut"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "名瀬市小湊"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/4PPtZqSuaVGnPCd17",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bndrstmnw"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町嘉鉄（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bpzw2trbt",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.166327
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.372823
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bg8vmsmf1",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.261931
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.184641
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0005",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "説明文: 千八百六十二石餘"
+      },
+      {
+        "@value": "分類: 村"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "わん間切"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/FZxuCc8HiXmVNLTJA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bmyyysxkw"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町小名瀬（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5by6qunqkx",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.269917
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.30764
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/rWrEJJiVNv11aCma7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bs6deb78t"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町花天（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0003",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "説明文: いしやく村"
+      },
+      {
+        "@value": "分類: 村"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://schema.org/spatial": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "西目間切之内"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bmyyysxkw",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.20718
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.285592
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Unknown"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/KgFYiEQ6oS2rGE1C9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5cp7r4rgy5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）GＭ等で判断"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0006",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 村"
+      },
+      {
+        "@value": "説明文: 千三百二十二石餘"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "荒木間切"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7ttqu7xfd",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.363595
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.571435
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5cjcrvge40",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.308651
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.286919
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh135e7r57b",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.364528
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.423714
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/MEPaXa1uMLaZzpHN8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh2uryqp2pn"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "喜界町荒木　現荒木崎（地理院）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh1sgevdxds",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.408883
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.589001
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/dCaUvhbCwgM5eV6XA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7ybvb3x65"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "和泊町大城"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/DvbJWEU4CtJugsfD7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5by6qunqkx"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村部連、現キャギ﨑"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh1u75d95fb"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "龍郷町嘉渡"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/Bbhbr3UYpQEXKEXZ7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bpzw2trbt"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町節子（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/yRuT5srzWWmuiJvn9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bq5fenqp8"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町油井（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5btwndvzbh",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.246364
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.27431
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/JZiMQaxy8ZVxAPwZ8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bmyyysxkw"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町小名瀬（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/7EiXKJf4rWtPL2oJA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7zhw86k90"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "和泊町畦布"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7zhw86k90",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.402716
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.636954
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/7it6o3W2h78PZmcc9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wugtz89sqz5q"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "\n徳之島町亀津"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/ZBPLqAyUPGDeR7is9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5btwndvzbh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町古志（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bmyzw9peh",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.207181
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.28647
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wugtteesdsb8",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.705571
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.918489
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wug7t8371z76",
+    "http://schema.org/latitude": [
+      {
+        "@value": 27.335912
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 128.563808
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/2mkf1U2nFv51Rr8P9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wug7ttqu7xfd"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "知名町下平川"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/S1xfk8rSY4BDvk8N9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh1sgevdxds"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "龍郷町浦"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/5eWYZkDYDe1gNKRw6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bsr1759nv"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村平田、現タエン崎（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh10j495vkq",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.328448
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.3786
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0004",
+    "http://schema.org/category": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho-oshima"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 村"
+      },
+      {
+        "@value": "説明文: 千五十石餘"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ryukyu-kuniezu.web.app/api/data/shoho"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "西目間切"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/W5ywYCQuZ2Yuf6mg6",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bmyyysxkw"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町小名瀬"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/4xrFaqFiN36cbsor8",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bu012pu0g"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "宇検村阿室（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/tpdDmq5cMGFbySr99",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5bpzw2trbt"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町節子（私見）"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/faTNgJXFXbAKvu4aA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh1kee6k1hs"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "龍郷町戸口"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/ycBPBBxMseJhWu3Z7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wugebn38ss8w"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "和泊町喜美留"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/LC8A1k2Wb1HMzCDx9",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wv5btwndvzbh"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "瀬戸内町古志、現佐栄﨑"
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh2uuhnyp2k"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "喜界町上嘉鉄"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh4n798j14q",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.495795
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.651936
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/RYCMjuHyw79ewx9RA",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh10j495vkq"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村大和浜大和浜湊（＝思勝湾）"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wv5bs6deb78t",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.227287
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.21365
+      }
+    ]
+  },
+  {
+    "@id": "https://ryukyu-kuniezu.web.app/api/place/CVg39M4dyTWBYJC67",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "http://geohash.org/wvh135e7r57b"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和村湯湾釜"
+      }
+    ]
+  },
+  {
+    "@id": "http://geohash.org/wvh1ezt5t2yg",
+    "http://schema.org/latitude": [
+      {
+        "@value": 28.430476
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": 129.546896
+      }
+    ]
+  }
+]

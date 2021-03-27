@@ -1,0 +1,408 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0001> rdfs:label "志戸桶間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: 七百十二石餘" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0002> rdfs:label "東間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: 千九百八十六石餘" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0003> rdfs:label "西目間切之内" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: いしやく村" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://ryukyu-kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0004> rdfs:label "西目間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: 千五十石餘" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0005> rdfs:label "わん間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: 千八百六十二石餘" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0006> rdfs:label "荒木間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: 千三百二十二石餘" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0007> rdfs:label "荒木間切" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: しつる村" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://ryukyu-kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7> .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima-0008> rdfs:label "笠利間切之内" ;
+    ns1:category <https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> ;
+    ns1:description "分類: 村",
+        "説明文: かとく村" ;
+    ns1:isPartOf <https://ryukyu-kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://ryukyu-kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6> .
+
+<https://ryukyu-kuniezu.web.app/api/place/27SaLgFNMGbY5LQX8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村志戸勘、現ソン﨑" ;
+    ns1:geo <http://geohash.org/wv5cjcrvge40> .
+
+<https://ryukyu-kuniezu.web.app/api/place/2mkf1U2nFv51Rr8P9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "知名町下平川" ;
+    ns1:geo <http://geohash.org/wug7ttqu7xfd> .
+
+<https://ryukyu-kuniezu.web.app/api/place/4PPtZqSuaVGnPCd17> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町嘉鉄（私見）" ;
+    ns1:geo <http://geohash.org/wv5bndrstmnw> .
+
+<https://ryukyu-kuniezu.web.app/api/place/4xrFaqFiN36cbsor8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村阿室（私見）" ;
+    ns1:geo <http://geohash.org/wv5bu012pu0g> .
+
+<https://ryukyu-kuniezu.web.app/api/place/5eWYZkDYDe1gNKRw6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村平田、現タエン崎（私見）" ;
+    ns1:geo <http://geohash.org/wv5bsr1759nv> .
+
+<https://ryukyu-kuniezu.web.app/api/place/7EiXKJf4rWtPL2oJA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "和泊町畦布" ;
+    ns1:geo <http://geohash.org/wug7zhw86k90> .
+
+<https://ryukyu-kuniezu.web.app/api/place/7HqtH4c1e6oUx94WA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label """大島郡大和村大字大棚・大金久　
+「毛陳村」の項に記載あり。（廃村）Google map等で判断""" ;
+    ns1:geo <http://geohash.org/wv5cp7r4rgy5> .
+
+<https://ryukyu-kuniezu.web.app/api/place/7it6o3W2h78PZmcc9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label """
+徳之島町亀津""" ;
+    ns1:geo <http://geohash.org/wugtz89sqz5q> .
+
+<https://ryukyu-kuniezu.web.app/api/place/8J9Ma2uCP5yEvUpW6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村平田" ;
+    ns1:geo <http://geohash.org/wv5bsr1759nv> .
+
+<https://ryukyu-kuniezu.web.app/api/place/8hm4kfsugULBJTb5A> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "知名町上城・新城" ;
+    ns1:geo <http://geohash.org/wug7vc1qkzbk> .
+
+<https://ryukyu-kuniezu.web.app/api/place/8qf2Xp1G3nPRZ5xn6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村宇検" ;
+    ns1:geo <http://geohash.org/wv5buwtrpjkh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/9W1vhfh9JkQhLZnT6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label """大島郡大和村大字大棚・大金久　
+「毛陳村」の項に記載あり。（廃村）GＭ等で判断""" ;
+    ns1:geo <http://geohash.org/wv5cp7r4rgy5> .
+
+<https://ryukyu-kuniezu.web.app/api/place/Anw8arjo6o8YzHhZ7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町小名瀬、現阿丹花﨑" ;
+    ns1:geo <http://geohash.org/wv5bmyzw9peh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/Aztabh6DE8Ur6B3E9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "名瀬市小湊" ;
+    ns1:geo <http://geohash.org/wvh15efemxut> .
+
+<https://ryukyu-kuniezu.web.app/api/place/Bbhbr3UYpQEXKEXZ7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町節子（私見）" ;
+    ns1:geo <http://geohash.org/wv5bpzw2trbt> .
+
+<https://ryukyu-kuniezu.web.app/api/place/CVg39M4dyTWBYJC67> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村湯湾釜" ;
+    ns1:geo <http://geohash.org/wvh135e7r57b> .
+
+<https://ryukyu-kuniezu.web.app/api/place/CuJjgj1GtBMVrAKY9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村大字宇検、現クラキ鼻" ;
+    ns1:geo <http://geohash.org/wv5buwtrpjkh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/DRBXGBizoBwdmjWV8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町古志" ;
+    ns1:geo <http://geohash.org/wv5btwndvzbh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/DkBkpxTAQePYFD85A> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "（私見）" ;
+    ns1:geo <http://geohash.org/wv5bmyzw9peh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/Dpx2FAjmHSpkfy1GA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "知名町徳時" ;
+    ns1:geo <http://geohash.org/wug7t5drkmy2> .
+
+<https://ryukyu-kuniezu.web.app/api/place/DvbJWEU4CtJugsfD7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村部連、現キャギ﨑" ;
+    ns1:geo <http://geohash.org/wv5by6qunqkx> .
+
+<https://ryukyu-kuniezu.web.app/api/place/FY6vdfqwVwSoxYZXA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村大金久、現ウツ﨑（私見）" ;
+    ns1:geo <http://geohash.org/wv5cp7r4rgy5> .
+
+<https://ryukyu-kuniezu.web.app/api/place/FZxuCc8HiXmVNLTJA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町小名瀬（私見）" ;
+    ns1:geo <http://geohash.org/wv5bmyyysxkw> .
+
+<https://ryukyu-kuniezu.web.app/api/place/JJRwLDUaJ4UsoNZ29> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "喜界町湾" ;
+    ns1:geo <http://geohash.org/wvh3hccvrvrc> .
+
+<https://ryukyu-kuniezu.web.app/api/place/JZiMQaxy8ZVxAPwZ8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町小名瀬（私見）" ;
+    ns1:geo <http://geohash.org/wv5bmyyysxkw> .
+
+<https://ryukyu-kuniezu.web.app/api/place/K9fNh2ua3neKVu8D9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村大金久（私見）" ;
+    ns1:geo <http://geohash.org/wv5cp7r4rgy5> .
+
+<https://ryukyu-kuniezu.web.app/api/place/KgFYiEQ6oS2rGE1C9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label """大島郡大和村大字大棚・大金久　
+「毛陳村」の項に記載あり。（廃村）GＭ等で判断""" ;
+    ns1:geo <http://geohash.org/wv5cp7r4rgy5> .
+
+<https://ryukyu-kuniezu.web.app/api/place/KuTnAccJLxAnaxQq6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村屋鈍、現屋鈍﨑" ;
+    ns1:geo <http://geohash.org/wv5bg8vmsmf1> .
+
+<https://ryukyu-kuniezu.web.app/api/place/LC8A1k2Wb1HMzCDx9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町古志、現佐栄﨑" ;
+    ns1:geo <http://geohash.org/wv5btwndvzbh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/MEPaXa1uMLaZzpHN8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "喜界町荒木　現荒木崎（地理院）" ;
+    ns1:geo <http://geohash.org/wvh2uryqp2pn> .
+
+<https://ryukyu-kuniezu.web.app/api/place/MMyQgPXqSFXPw2mX7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label """大島郡宇検村大字久志 枝手久島
+、現赤﨑""" ;
+    ns1:geo <http://geohash.org/wv5buv2ysbku> .
+
+<https://ryukyu-kuniezu.web.app/api/place/RUPanRLobG7aQVVX8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "伊仙町阿権" ;
+    ns1:geo <http://geohash.org/wugtteesdsb8> .
+
+<https://ryukyu-kuniezu.web.app/api/place/RWtjZaNFUxx8db5F8> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村今里、現アヨ﨑" ;
+    ns1:geo <http://geohash.org/wv5cju8bdpc8> .
+
+<https://ryukyu-kuniezu.web.app/api/place/RYCMjuHyw79ewx9RA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "大和村大和浜大和浜湊（＝思勝湾）" ;
+    ns1:geo <http://geohash.org/wvh10j495vkq> .
+
+<https://ryukyu-kuniezu.web.app/api/place/S1xfk8rSY4BDvk8N9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "龍郷町浦" ;
+    ns1:geo <http://geohash.org/wvh1sgevdxds> .
+
+<https://ryukyu-kuniezu.web.app/api/place/TnhcBS9NuZFgfeBW9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "名瀬市小湊、現仲干瀬﨑（地理院地図）" ;
+    ns1:geo <http://geohash.org/wvh15efemxut> .
+
+<https://ryukyu-kuniezu.web.app/api/place/W5ywYCQuZ2Yuf6mg6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町小名瀬" ;
+    ns1:geo <http://geohash.org/wv5bmyyysxkw> .
+
+<https://ryukyu-kuniezu.web.app/api/place/XPxusfgywCvV4rUZ6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "知名町知名" ;
+    ns1:geo <http://geohash.org/wug7t8371z76> .
+
+<https://ryukyu-kuniezu.web.app/api/place/YgnWDb2d27HwZ1aHA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "徳之島町花徳" ;
+    ns1:geo <http://geohash.org/wugwqs8cdk9r> .
+
+<https://ryukyu-kuniezu.web.app/api/place/ZBPLqAyUPGDeR7is9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町古志（私見）" ;
+    ns1:geo <http://geohash.org/wv5btwndvzbh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/bwbNnR6v6We3aGVy6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町花天、現チチエン﨑（私見）" ;
+    ns1:geo <http://geohash.org/wv5bs6deb78t> .
+
+<https://ryukyu-kuniezu.web.app/api/place/dCaUvhbCwgM5eV6XA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "和泊町大城" ;
+    ns1:geo <http://geohash.org/wug7ybvb3x65> .
+
+<https://ryukyu-kuniezu.web.app/api/place/faTNgJXFXbAKvu4aA> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "龍郷町戸口" ;
+    ns1:geo <http://geohash.org/wvh1kee6k1hs> .
+
+<https://ryukyu-kuniezu.web.app/api/place/gmAXLdw4MkYP4DzV9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町管鈍（私見）" ;
+    ns1:geo <http://geohash.org/wv5bshhexbvj> .
+
+<https://ryukyu-kuniezu.web.app/api/place/kyEtuuvj8NFxuDD9A> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "龍郷町秋名　現武運崎（地理院）" ;
+    ns1:geo <http://geohash.org/wvh1ezt5t2yg> .
+
+<https://ryukyu-kuniezu.web.app/api/place/rWrEJJiVNv11aCma7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町花天（私見）" ;
+    ns1:geo <http://geohash.org/wv5bs6deb78t> .
+
+<https://ryukyu-kuniezu.web.app/api/place/tpdDmq5cMGFbySr99> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町節子（私見）" ;
+    ns1:geo <http://geohash.org/wv5bpzw2trbt> .
+
+<https://ryukyu-kuniezu.web.app/api/place/uNPQjv1a26MqSwX26> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "笠利町屋仁・川上" ;
+    ns1:geo <http://geohash.org/wvh4n798j14q> .
+
+<https://ryukyu-kuniezu.web.app/api/place/ugsqRzTkNdMqjDsk6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町古志（私見）" ;
+    ns1:geo <http://geohash.org/wv5btwndvzbh> .
+
+<https://ryukyu-kuniezu.web.app/api/place/wSa1NciDUYeA3swZ6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町久慈、現浜グリ﨑（私見）" ;
+    ns1:geo <http://geohash.org/wv5btm6xvz87> .
+
+<https://ryukyu-kuniezu.web.app/api/place/xK4t9Zt8NcxcSBrK6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "宇検村須古" ;
+    ns1:geo <http://geohash.org/wv5by6qunqkx> .
+
+<https://ryukyu-kuniezu.web.app/api/place/yRuT5srzWWmuiJvn9> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "瀬戸内町油井（私見）" ;
+    ns1:geo <http://geohash.org/wv5bq5fenqp8> .
+
+<https://ryukyu-kuniezu.web.app/api/place/ycBPBBxMseJhWu3Z7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "和泊町喜美留" ;
+    ns1:geo <http://geohash.org/wugebn38ss8w> .
+
+<http://geohash.org/wug7t5drkmy2> ns1:latitude 2.735449e+01 ;
+    ns1:longitude 1.285433e+02 .
+
+<http://geohash.org/wug7t8371z76> ns1:latitude 2.733591e+01 ;
+    ns1:longitude 1.285638e+02 .
+
+<http://geohash.org/wug7ttqu7xfd> ns1:latitude 2.73636e+01 ;
+    ns1:longitude 1.285714e+02 .
+
+<http://geohash.org/wug7vc1qkzbk> ns1:latitude 2.738454e+01 ;
+    ns1:longitude 1.285749e+02 .
+
+<http://geohash.org/wug7ybvb3x65> ns1:latitude 2.738213e+01 ;
+    ns1:longitude 1.286249e+02 .
+
+<http://geohash.org/wug7zhw86k90> ns1:latitude 2.740272e+01 ;
+    ns1:longitude 1.28637e+02 .
+
+<http://geohash.org/wugebn38ss8w> ns1:latitude 2.741237e+01 ;
+    ns1:longitude 1.286741e+02 .
+
+<http://geohash.org/wugtteesdsb8> ns1:latitude 2.770557e+01 ;
+    ns1:longitude 1.289185e+02 .
+
+<http://geohash.org/wugtz89sqz5q> ns1:latitude 2.773301e+01 ;
+    ns1:longitude 1.290038e+02 .
+
+<http://geohash.org/wugwqs8cdk9r> ns1:latitude 2.784239e+01 ;
+    ns1:longitude 1.289586e+02 .
+
+<http://geohash.org/wv5bg8vmsmf1> ns1:latitude 2.826193e+01 ;
+    ns1:longitude 1.291846e+02 .
+
+<http://geohash.org/wv5bndrstmnw> ns1:latitude 2.813816e+01 ;
+    ns1:longitude 1.293196e+02 .
+
+<http://geohash.org/wv5bq5fenqp8> ns1:latitude 2.819009e+01 ;
+    ns1:longitude 1.292908e+02 .
+
+<http://geohash.org/wv5bshhexbvj> ns1:latitude 2.823547e+01 ;
+    ns1:longitude 1.292057e+02 .
+
+<http://geohash.org/wv5btm6xvz87> ns1:latitude 2.82431e+01 ;
+    ns1:longitude 1.292578e+02 .
+
+<http://geohash.org/wv5bu012pu0g> ns1:latitude 2.825686e+01 ;
+    ns1:longitude 1.292013e+02 .
+
+<http://geohash.org/wv5buv2ysbku> ns1:latitude 2.828679e+01 ;
+    ns1:longitude 1.292334e+02 .
+
+<http://geohash.org/wv5cjcrvge40> ns1:latitude 2.830865e+01 ;
+    ns1:longitude 1.292869e+02 .
+
+<http://geohash.org/wv5cju8bdpc8> ns1:latitude 2.832563e+01 ;
+    ns1:longitude 1.292772e+02 .
+
+<http://geohash.org/wvh10j495vkq> ns1:latitude 2.832845e+01 ;
+    ns1:longitude 1.293786e+02 .
+
+<http://geohash.org/wvh135e7r57b> ns1:latitude 2.836453e+01 ;
+    ns1:longitude 1.294237e+02 .
+
+<http://geohash.org/wvh1ezt5t2yg> ns1:latitude 2.843048e+01 ;
+    ns1:longitude 1.295469e+02 .
+
+<http://geohash.org/wvh1kee6k1hs> ns1:latitude 2.836435e+01 ;
+    ns1:longitude 1.295774e+02 .
+
+<http://geohash.org/wvh1sgevdxds> ns1:latitude 2.840888e+01 ;
+    ns1:longitude 1.29589e+02 .
+
+<http://geohash.org/wvh1u75d95fb> ns1:latitude 2.844955e+01 ;
+    ns1:longitude 1.295666e+02 .
+
+<http://geohash.org/wvh2uryqp2pn> ns1:latitude 2.830044e+01 ;
+    ns1:longitude 1.299222e+02 .
+
+<http://geohash.org/wvh2uuhnyp2k> ns1:latitude 2.828001e+01 ;
+    ns1:longitude 1.299411e+02 .
+
+<http://geohash.org/wvh3hccvrvrc> ns1:latitude 2.831132e+01 ;
+    ns1:longitude 1.29938e+02 .
+
+<http://geohash.org/wvh3mb01w0w3> ns1:latitude 2.834499e+01 ;
+    ns1:longitude 1.299795e+02 .
+
+<http://geohash.org/wvh4n798j14q> ns1:latitude 2.84958e+01 ;
+    ns1:longitude 1.296519e+02 .
+
+<https://ryukyu-kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "龍郷町嘉渡" ;
+    ns1:geo <http://geohash.org/wvh1u75d95fb> .
+
+<https://ryukyu-kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "喜界町上嘉鉄" ;
+    ns1:geo <http://geohash.org/wvh2uuhnyp2k> .
+
+<https://ryukyu-kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7> a <https://jpsearch.go.jp/term/type/Place> ;
+    rdfs:label "喜界町伊砂" ;
+    ns1:geo <http://geohash.org/wvh3mb01w0w3> .
+
+<http://geohash.org/wv5bmyzw9peh> ns1:latitude 2.820718e+01 ;
+    ns1:longitude 1.292865e+02 .
+
+<http://geohash.org/wv5bpzw2trbt> ns1:latitude 2.816633e+01 ;
+    ns1:longitude 1.293728e+02 .
+
+<http://geohash.org/wv5bs6deb78t> ns1:latitude 2.822729e+01 ;
+    ns1:longitude 1.292137e+02 .
+
+<http://geohash.org/wv5bsr1759nv> ns1:latitude 2.825186e+01 ;
+    ns1:longitude 1.292121e+02 .
+
+<http://geohash.org/wv5buwtrpjkh> ns1:latitude 2.829377e+01 ;
+    ns1:longitude 1.292287e+02 .
+
+<http://geohash.org/wv5by6qunqkx> ns1:latitude 2.826992e+01 ;
+    ns1:longitude 1.293076e+02 .
+
+<http://geohash.org/wvh15efemxut> ns1:latitude 2.832198e+01 ;
+    ns1:longitude 1.295325e+02 .
+
+<http://geohash.org/wv5bmyyysxkw> ns1:latitude 2.820718e+01 ;
+    ns1:longitude 1.292856e+02 .
+
+<http://geohash.org/wv5btwndvzbh> ns1:latitude 2.824636e+01 ;
+    ns1:longitude 1.292743e+02 .
+
+<http://geohash.org/wv5cp7r4rgy5> ns1:latitude 2.831904e+01 ;
+    ns1:longitude 1.29352e+02 .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho> rdfs:label "正保国絵図" .
+
+<https://ryukyu-kuniezu.web.app/api/data/shoho-oshima> rdfs:label "Unknown" .
+
