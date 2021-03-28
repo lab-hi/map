@@ -1400,17 +1400,20 @@
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0003> rdfs:label "おかミ山" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0200" ;
+    ns1:description "Sort: 0200",
+        "分類: 山" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0004> rdfs:label "とひよ崎" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0201" ;
+    ns1:description "Sort: 0201",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0005> rdfs:label "をのつ崎" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0202" ;
+    ns1:description "Sort: 0202",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0006> rdfs:label "大船出入なし" ;
@@ -1427,23 +1430,27 @@
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0008> rdfs:label "はいき崎" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0205" ;
+    ns1:description "Sort: 0205",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0009> rdfs:label "あら崎" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0206" ;
+    ns1:description "Sort: 0206",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
     ns1:spatial <https://kuniezu.web.app/api/place/MEPaXa1uMLaZzpHN8> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0010> rdfs:label "しつる崎" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0207" ;
+    ns1:description "Sort: 0207",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0011> rdfs:label "かまふ﨑" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-kikai> ;
-    ns1:description "Sort: 0208" ;
+    ns1:description "Sort: 0208",
+        "分類: 崎" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-kikai-0012> rdfs:label "大船出入なし" ;
@@ -3121,18 +3128,21 @@
 <https://kuniezu.web.app/api/data/shoho-oshima-0009> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0137",
+        "分類: 村",
         "説明文: 喜瀬村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-oshima-0010> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0138",
+        "分類: 村",
         "説明文: あかきな村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-oshima-0011> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0139",
+        "分類: 村",
         "説明文: やん村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
     ns1:spatial <https://kuniezu.web.app/api/place/uNPQjv1a26MqSwX26> .
@@ -3146,24 +3156,28 @@
 <https://kuniezu.web.app/api/data/shoho-oshima-0013> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0141",
+        "分類: 村",
         "説明文: うすく村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-oshima-0014> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0142",
+        "分類: 村",
         "説明文: せつた村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-oshima-0015> rdfs:label "笠利間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0143",
+        "分類: 村",
         "説明文: かしけん村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-oshima-0016> rdfs:label "名瀬間切之内" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-oshima> ;
     ns1:description "Sort: 0144",
+        "分類: 村",
         "説明文: うら村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
     ns1:spatial <https://kuniezu.web.app/api/place/S1xfk8rSY4BDvk8N9> .
@@ -3489,233 +3503,6 @@
 <https://kuniezu.web.app/api/data/shoho-yashima-00000835> rdfs:label "「琉球国八島絵図」" ;
     ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
     ns1:description "Sort: 0835" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000838> rdfs:label "嶋尻村" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0838",
-        "説明文: かりまた間切之内" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000839> rdfs:label "平良間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0839",
-        "説明文: 入中曽根村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
-    ns1:spatial <https://kuniezu.web.app/api/place/KVfMV9PVfrKX5adz9> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000840> rdfs:label "平良間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0840",
-        "説明文: あかり中曽根村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
-    ns1:spatial <https://kuniezu.web.app/api/place/EbkQX5yBy2sVC8h47> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000841> rdfs:label "平良間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0841",
-        "説明文: 三千三百十石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000842> rdfs:label "平良間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0842",
-        "説明文: 新里村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000843> rdfs:label "平良間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0843",
-        "説明文: 松原村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
-    ns1:spatial <https://kuniezu.web.app/api/place/EFixpQVXtPcHGcqZ9> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000844> rdfs:label "下地間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0844",
-        "説明文: 三千六百七石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000845> rdfs:label "下地間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0845",
-        "説明文: 上地村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000846> rdfs:label "下地間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0846",
-        "説明文: すかま村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000847> rdfs:label "下地間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0847",
-        "説明文: 与那覇村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000848> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0848",
-        "説明文: 百名村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000849> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0849",
-        "説明文: 中きや泊村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000850> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0850",
-        "説明文: きんす川村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000851> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0851",
-        "説明文: 友利村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000852> rdfs:label "おろか間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0852",
-        "説明文: 三千三百八十九石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000853> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0853",
-        "説明文: 荒里村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000854> rdfs:label "おろか間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0854",
-        "説明文: 宮国村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000855> rdfs:label "くかい村" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0855",
-        "説明文: 二百五十四石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000856> rdfs:label "たらま嶋" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0856",
-        "説明文: 三百三十八石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000857> rdfs:label "川平間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0857",
-        "説明文: きやか村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000858> rdfs:label "川平間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0858",
-        "説明文: 婦かい村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000859> rdfs:label "川平間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0859",
-        "説明文: 仲筋村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000860> rdfs:label "川平間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0860",
-        "説明文: 二百四十二石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000861> rdfs:label "石墻間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0861",
-        "説明文: 﨑枝村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000862> rdfs:label "石墻間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0862",
-        "説明文: なくら村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000863> rdfs:label "石墻間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0863",
-        "説明文: 九百八十石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000864> rdfs:label "石墻間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0864",
-        "説明文: 殿城村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000865> rdfs:label "大濱間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0865",
-        "説明文: 千四十四石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000866> rdfs:label "宮良間切" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0866",
-        "備考: ※史料集表記「宮平」",
-        "説明文: 二百七十石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000867> rdfs:label "宮良間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0867",
-        "説明文: しらほ村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000868> rdfs:label "たけとみ嶋" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0868",
-        "説明文: 五十二石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000869> rdfs:label "黒嶋" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0869",
-        "説明文: 二百八十六石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000870> rdfs:label "波照間嶋" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0870",
-        "説明文: 四百二十七石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000871> rdfs:label "小濱嶋" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0871",
-        "説明文: 二百七十四石余" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000872> rdfs:label "こみ間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0872",
-        "説明文: ひけ川村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000873> rdfs:label "こみ間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0873",
-        "説明文: 平川村" ;
-    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
-    ns1:spatial <https://kuniezu.web.app/api/place/HzS1XR2CC1BBBQNdA> .
-
-<https://kuniezu.web.app/api/data/shoho-yashima-00000874> rdfs:label "こみ間切之内" ;
-    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
-    ns1:description "Sort: 0874",
-        "説明文: 平西村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-yashima-00000875> rdfs:label "こみ間切" ;
@@ -4439,6 +4226,233 @@
     ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
     ns1:description "Sort: 0837",
         "説明文: 千五百五十七石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0002> rdfs:label "嶋尻村" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0838",
+        "説明文: かりまた間切之内" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0003> rdfs:label "平良間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0839",
+        "説明文: 入中曽根村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://kuniezu.web.app/api/place/KVfMV9PVfrKX5adz9> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0004> rdfs:label "平良間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0840",
+        "説明文: あかり中曽根村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://kuniezu.web.app/api/place/EbkQX5yBy2sVC8h47> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0005> rdfs:label "平良間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0841",
+        "説明文: 三千三百十石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0006> rdfs:label "平良間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0842",
+        "説明文: 新里村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0007> rdfs:label "平良間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0843",
+        "説明文: 松原村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://kuniezu.web.app/api/place/EFixpQVXtPcHGcqZ9> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0008> rdfs:label "下地間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0844",
+        "説明文: 三千六百七石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0009> rdfs:label "下地間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0845",
+        "説明文: 上地村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0010> rdfs:label "下地間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0846",
+        "説明文: すかま村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0011> rdfs:label "下地間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0847",
+        "説明文: 与那覇村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0012> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0848",
+        "説明文: 百名村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0013> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0849",
+        "説明文: 中きや泊村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0014> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0850",
+        "説明文: きんす川村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0015> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0851",
+        "説明文: 友利村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0016> rdfs:label "おろか間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0852",
+        "説明文: 三千三百八十九石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0017> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0853",
+        "説明文: 荒里村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0018> rdfs:label "おろか間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0854",
+        "説明文: 宮国村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0019> rdfs:label "くかい村" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0855",
+        "説明文: 二百五十四石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0020> rdfs:label "たらま嶋" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0856",
+        "説明文: 三百三十八石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0021> rdfs:label "川平間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0857",
+        "説明文: きやか村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0022> rdfs:label "川平間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0858",
+        "説明文: 婦かい村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0023> rdfs:label "川平間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0859",
+        "説明文: 仲筋村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0024> rdfs:label "川平間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0860",
+        "説明文: 二百四十二石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0025> rdfs:label "石墻間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0861",
+        "説明文: 﨑枝村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0026> rdfs:label "石墻間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0862",
+        "説明文: なくら村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0027> rdfs:label "石墻間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0863",
+        "説明文: 九百八十石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0028> rdfs:label "石墻間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0864",
+        "説明文: 殿城村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0029> rdfs:label "大濱間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0865",
+        "説明文: 千四十四石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0030> rdfs:label "宮良間切" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0866",
+        "備考: ※史料集表記「宮平」",
+        "説明文: 二百七十石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0031> rdfs:label "宮良間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0867",
+        "説明文: しらほ村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0032> rdfs:label "たけとみ嶋" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0868",
+        "説明文: 五十二石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0033> rdfs:label "黒嶋" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0869",
+        "説明文: 二百八十六石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0034> rdfs:label "波照間嶋" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0870",
+        "説明文: 四百二十七石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0035> rdfs:label "小濱嶋" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0871",
+        "説明文: 二百七十四石余" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0036> rdfs:label "こみ間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0872",
+        "説明文: ひけ川村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0037> rdfs:label "こみ間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0873",
+        "説明文: 平川村" ;
+    ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> ;
+    ns1:spatial <https://kuniezu.web.app/api/place/HzS1XR2CC1BBBQNdA> .
+
+<https://kuniezu.web.app/api/data/shoho-yashima-0038> rdfs:label "こみ間切之内" ;
+    ns1:category <https://kuniezu.web.app/api/data/shoho-yashima> ;
+    ns1:description "Sort: 0874",
+        "説明文: 平西村" ;
     ns1:isPartOf <https://kuniezu.web.app/api/data/shoho> .
 
 <https://kuniezu.web.app/api/data/shoho-yashima-0045> rdfs:label "入表間切" ;

@@ -229,3 +229,7 @@ for i in range(3, r_count):
 path = "data/all.json"
 all.serialize(destination=path, format='json-ld')
 all.serialize(destination=path.replace(".json", ".ttl"), format='turtle')
+
+# コピー
+import shutil
+shutil.copyfile(path, "/Users/nakamurasatoru/git/d_hi/okinawa/viewer/static/data/items.json")

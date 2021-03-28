@@ -58,6 +58,10 @@ for selection in selections:
       marker = "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22"
       if category == "村":
         marker = "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22"
+      if category == "山":
+        marker = "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%234D4D4D&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22"
+      if category == "崎":
+        marker = "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22"
 
       url = prefix + "/item/" + uuid
 
