@@ -8,10 +8,454 @@
     "label": "琉球国絵図プロジェクト",
     "selections": [
         {
+            "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "正保琉球国悪鬼納島絵図写",
+            "members": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5658,9851,158,185",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0010",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0010",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5658,9851,158,185",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0010\">shoho-aku-0010</a> ]<br/>摩文仁間切<br/>Sort: 0554<br/>説明文: 五百八十三石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5184,9623,167,176",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0012",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0012",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5184,9623,167,176",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0012\">shoho-aku-0012</a> ]<br/>喜屋武間切<br/>Sort: 0556<br/>説明文: 五百六十五石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7191,9266,243,239",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0001",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0001",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7191,9266,243,239",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0001\">shoho-aku-0001</a> ]<br/>首里<br/>Sort: 0544<br/>説明文: 王城",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7043,10821,141,183",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0005",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0005",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7043,10821,141,183",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0005\">shoho-aku-0005</a> ]<br/>知念間切<br/>説明文: 八百九十八石餘<br/>Sort: 0549",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6539,10416,165,197",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0006",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0006",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6539,10416,165,197",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0006\">shoho-aku-0006</a> ]<br/>玉城間切<br/>Sort: 0550<br/>説明文: 千三百六十九石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7144,9752,157,181",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0002",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0002",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7144,9752,157,181",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0002\">shoho-aku-0002</a> ]<br/>南風原間切<br/>説明文: 千三百七十五石餘<br/>Sort: 0546",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7047,10190,151,181",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0003",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0003",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7047,10190,151,181",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0003\">shoho-aku-0003</a> ]<br/>嶋添大里間切<br/>Sort: 0547<br/>説明文: 三千二十九石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6431,9946,169,190",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0007",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0007",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6431,9946,169,190",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0007\">shoho-aku-0007</a> ]<br/>東風平間切<br/>説明文: 千五百八十四石餘<br/>Sort: 0551",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6265,10102,165,176",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0008",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0008",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6265,10102,165,176",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0008\">shoho-aku-0008</a> ]<br/>具志上間切<br/>Sort: 0552<br/>説明文: 八百二十九石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6972,10588,155,178",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0004",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0004",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6972,10588,155,178",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0004\">shoho-aku-0004</a> ]<br/>佐敷間切<br/>説明文: 九百二十八石餘<br/>Sort: 0548",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6109,9828,142,208",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0009",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0009",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6109,9828,142,208",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0009\">shoho-aku-0009</a> ]<br/>嶋尻大里間切<br/>説明文: 千八百三十二石餘<br/>Sort: 0553",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5828,9693,158,181",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-aku-0011",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-aku-0011",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5828,9693,158,181",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0011\">shoho-aku-0011</a> ]<br/>真加比間切<br/>説明文: 八百五十五石餘<br/>Sort: 0555",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "正保琉球国悪鬼納島絵図写"
+            }
+        },
+        {
             "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/range",
             "@type": "sc:Range",
             "label": "正保琉球国絵図写",
             "members": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19706,5135,128,157",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0016",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0016",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19706,5135,128,157",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0016\">shoho-oshima-0016</a> ]<br/>名瀬間切之内<br/>説明文: うら村<br/>Sort: 0144",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21206,5357,123,154",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0010",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0010",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21206,5357,123,154",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0010\">shoho-oshima-0010</a> ]<br/>笠利間切之内<br/>説明文: あかきな村<br/>Sort: 0138",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20482,5824,132,168",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0009",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0009",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20482,5824,132,168",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0009\">shoho-oshima-0009</a> ]<br/>笠利間切之内<br/>説明文: 喜瀬村<br/>Sort: 0137",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19801,5604,127,157",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0015",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0015",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19801,5604,127,157",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0015\">shoho-oshima-0015</a> ]<br/>笠利間切之内<br/>説明文: かしけん村<br/>Sort: 0143",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22091,8346,125,163",
                     "@type": "sc:Canvas",
@@ -27,10 +471,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22091,8346,125,163",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0002\">shoho-oshima-0002</a> ]<br/>東間切<br/>分類: 村<br/>説明文: 千九百八十六石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0002\">shoho-oshima-0002</a> ]<br/>東間切<br/>説明文: 千九百八十六石餘<br/>分類: 村<br/>Sort: 0130",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -54,10 +498,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22036,8072,143,164",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0003\">shoho-oshima-0003</a> ]<br/>西目間切之内<br/>説明文: いしやく村<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0003\">shoho-oshima-0003</a> ]<br/>西目間切之内<br/>説明文: いしやく村<br/>Sort: 0131<br/>分類: 村",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -81,10 +525,64 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21757,8016,140,159",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0004\">shoho-oshima-0004</a> ]<br/>西目間切<br/>分類: 村<br/>説明文: 千五十石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0004\">shoho-oshima-0004</a> ]<br/>西目間切<br/>分類: 村<br/>説明文: 千五十石餘<br/>Sort: 0132",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21110,6199,133,155",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0013",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0013",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21110,6199,133,155",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0013\">shoho-oshima-0013</a> ]<br/>笠利間切之内<br/>Sort: 0141<br/>説明文: うすく村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20692,6231,134,158",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0014",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0014",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20692,6231,134,158",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0014\">shoho-oshima-0014</a> ]<br/>笠利間切之内<br/>Sort: 0142<br/>説明文: せつた村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -108,10 +606,64 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21276,7967,120,164",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0005\">shoho-oshima-0005</a> ]<br/>わん間切<br/>説明文: 千八百六十二石餘<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0005\">shoho-oshima-0005</a> ]<br/>わん間切<br/>Sort: 0133<br/>分類: 村<br/>説明文: 千八百六十二石餘",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21393,5016,127,157",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0011",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0011",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21393,5016,127,157",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0011\">shoho-oshima-0011</a> ]<br/>笠利間切之内<br/>Sort: 0139<br/>説明文: やん村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20347,4426,124,159",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0008",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0008",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20347,4426,124,159",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0008\">shoho-oshima-0008</a> ]<br/>笠利間切之内<br/>Sort: 0136<br/>分類: 村<br/>説明文: かとく村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -135,10 +687,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21079,8106,136,161",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0006\">shoho-oshima-0006</a> ]<br/>荒木間切<br/>分類: 村<br/>説明文: 千三百二十二石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0006\">shoho-oshima-0006</a> ]<br/>荒木間切<br/>説明文: 千三百二十二石餘<br/>Sort: 0134<br/>分類: 村",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -162,10 +714,64 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21269,8405,136,157",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0007\">shoho-oshima-0007</a> ]<br/>荒木間切<br/>説明文: しつる村<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0007\">shoho-oshima-0007</a> ]<br/>荒木間切<br/>Sort: 0135<br/>分類: 村<br/>説明文: しつる村",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19622,4546,144,160",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0017",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0017",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19622,4546,144,160",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0017\">shoho-oshima-0017</a> ]<br/>名瀬間切<br/>Sort: 0145<br/>説明文: 千四百十九石餘",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21669,5505,134,165",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-oshima-0012",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-oshima-0012",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21669,5505,134,165",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0012\">shoho-oshima-0012</a> ]<br/>笠利間切<br/>説明文: 千二石餘<br/>Sort: 0140",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -189,10 +795,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22491,8194,139,167",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"/https://ryukyu-kuniezu.web.app/item/shoho-oshima-0001\">shoho-oshima-0001</a> ]<br/>志戸桶間切<br/>説明文: 七百十二石餘<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0001\">shoho-oshima-0001</a> ]<br/>志戸桶間切<br/>Sort: 0129<br/>説明文: 七百十二石餘<br/>分類: 村",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23F44E3B&icon=fa-star&color=%23FFFFFF&voffset=0&hoffset=1#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -206,6 +812,205 @@
                 "@id": "https://lab-hi.github.io/map/iiif/1/manifest.json",
                 "@type": "sc:Manifest",
                 "label": "正保琉球国絵図写"
+            }
+        },
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "正保琉球国八山島絵図",
+            "members": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5700,6810,140,185",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0047",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0047",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5700,6810,140,185",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0047\">shoho-yashima-0047</a> ]<br/>入表間切之内<br/>Sort: 0883<br/>説明文: ふなうけ村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=6230,6807,145,185",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0046",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0046",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=6230,6807,145,185",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0046\">shoho-yashima-0046</a> ]<br/>入表間切之内<br/>説明文: なるや村<br/>Sort: 0882",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=22061,6546,134,166",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0001",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0001",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=22061,6546,134,166",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0001\">shoho-yashima-0001</a> ]<br/>かりまた間切<br/>Sort: 0837<br/>説明文: 千五百五十七石余",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=21976,7146,141,174",
+                    "@type": "sc:Canvas",
+                    "label": "<p>shoho-yashima-0002</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=8338,7100,149,180",
+                    "@type": "sc:Canvas",
+                    "label": "<p>shoho-yashima-0036</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=21552,7921,147,167",
+                    "@type": "sc:Canvas",
+                    "label": "<p>shoho-yashima-0003</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=8160,8031,146,172",
+                    "@type": "sc:Canvas",
+                    "label": "<p>shoho-yashima-0038</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5232,7263,132,170",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0048",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0048",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5232,7263,132,170",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0048\">shoho-yashima-0048</a> ]<br/>入表間切之内<br/>説明文: かの川村<br/>Sort: 0884",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=8486,7893,139,175",
+                    "@type": "sc:Canvas",
+                    "label": "<p>shoho-yashima-0037</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=6414,6123,142,169",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0045",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0045",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=6414,6123,142,169",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0045\">shoho-yashima-0045</a> ]<br/>入表間切<br/>Sort: 0881<br/>説明文: 千十四石余",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5033,6818,140,178",
+                    "@type": "sc:Canvas",
+                    "label": "shoho-yashima-0049",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/15/1852/ndl/shoho-yashima-0049",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5033,6818,140,178",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0049\">shoho-yashima-0049</a> ]<br/>入表間切之内<br/>Sort: 0885<br/>説明文: あミとり村",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://lab-hi.github.io/map/iiif/2/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "正保琉球国八山島絵図"
             }
         }
     ],

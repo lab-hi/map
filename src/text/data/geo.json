@@ -1,4 +1,13 @@
 {
+    "https://goo.gl/maps/1wH2fAo8sRCiBrFfA": {
+        "geo": [
+            24.672033,
+            124.696773
+        ],
+        "hash": "http://geohash.org/wu2sme3mj2m1",
+        "label": "多良間島（私見）",
+        "uri": "https://kuniezu.web.app/api/place/1wH2fAo8sRCiBrFfA"
+    },
     "https://goo.gl/maps/27SaLgFNMGbY5LQX8": {
         "geo": [
             28.308651,
@@ -6,7 +15,7 @@
         ],
         "hash": "http://geohash.org/wv5cjcrvge40",
         "label": "大和村志戸勘、現ソン﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/27SaLgFNMGbY5LQX8"
+        "uri": "https://kuniezu.web.app/api/place/27SaLgFNMGbY5LQX8"
     },
     "https://goo.gl/maps/2mkf1U2nFv51Rr8P9": {
         "geo": [
@@ -15,7 +24,7 @@
         ],
         "hash": "http://geohash.org/wug7ttqu7xfd",
         "label": "知名町下平川",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/2mkf1U2nFv51Rr8P9"
+        "uri": "https://kuniezu.web.app/api/place/2mkf1U2nFv51Rr8P9"
     },
     "https://goo.gl/maps/4PPtZqSuaVGnPCd17": {
         "geo": [
@@ -24,7 +33,7 @@
         ],
         "hash": "http://geohash.org/wv5bndrstmnw",
         "label": "瀬戸内町嘉鉄（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/4PPtZqSuaVGnPCd17"
+        "uri": "https://kuniezu.web.app/api/place/4PPtZqSuaVGnPCd17"
     },
     "https://goo.gl/maps/4eRDqb7rnVokN2oU6": {
         "geo": [
@@ -33,7 +42,16 @@
         ],
         "hash": "http://geohash.org/wvh1u75d95fb",
         "label": "龍郷町嘉渡",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6"
+        "uri": "https://kuniezu.web.app/api/place/4eRDqb7rnVokN2oU6"
+    },
+    "https://goo.gl/maps/4khi7UhQv5Ydmxky5": {
+        "geo": [
+            27.776028,
+            129.02437
+        ],
+        "hash": "http://geohash.org/wugy002xjdzk",
+        "label": "徳之島町井之川、現井之川",
+        "uri": "https://kuniezu.web.app/api/place/4khi7UhQv5Ydmxky5"
     },
     "https://goo.gl/maps/4xrFaqFiN36cbsor8": {
         "geo": [
@@ -42,7 +60,7 @@
         ],
         "hash": "http://geohash.org/wv5bu012pu0g",
         "label": "宇検村阿室（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/4xrFaqFiN36cbsor8"
+        "uri": "https://kuniezu.web.app/api/place/4xrFaqFiN36cbsor8"
     },
     "https://goo.gl/maps/5eWYZkDYDe1gNKRw6": {
         "geo": [
@@ -51,7 +69,16 @@
         ],
         "hash": "http://geohash.org/wv5bsr1759nv",
         "label": "宇検村平田、現タエン崎（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/5eWYZkDYDe1gNKRw6"
+        "uri": "https://kuniezu.web.app/api/place/5eWYZkDYDe1gNKRw6"
+    },
+    "https://goo.gl/maps/73EdHr88uEM4wfdP9": {
+        "geo": [
+            27.762644,
+            128.957349
+        ],
+        "hash": "http://geohash.org/wugtyqpch5by",
+        "label": "天城町西阿木名 西阿木名",
+        "uri": "https://kuniezu.web.app/api/place/73EdHr88uEM4wfdP9"
     },
     "https://goo.gl/maps/7EiXKJf4rWtPL2oJA": {
         "geo": [
@@ -60,7 +87,16 @@
         ],
         "hash": "http://geohash.org/wug7zhw86k90",
         "label": "和泊町畦布",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/7EiXKJf4rWtPL2oJA"
+        "uri": "https://kuniezu.web.app/api/place/7EiXKJf4rWtPL2oJA"
+    },
+    "https://goo.gl/maps/7Hh51eKL6jJFwKvm6": {
+        "geo": [
+            27.733007,
+            129.003819
+        ],
+        "hash": "http://geohash.org/wugtz89sqz5q",
+        "label": "徳之島町亀津",
+        "uri": "https://kuniezu.web.app/api/place/7Hh51eKL6jJFwKvm6"
     },
     "https://goo.gl/maps/7HqtH4c1e6oUx94WA": {
         "geo": [
@@ -69,7 +105,7 @@
         ],
         "hash": "http://geohash.org/wv5cp7r4rgy5",
         "label": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）Google map等で判断",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/7HqtH4c1e6oUx94WA"
+        "uri": "https://kuniezu.web.app/api/place/7HqtH4c1e6oUx94WA"
     },
     "https://goo.gl/maps/7it6o3W2h78PZmcc9": {
         "geo": [
@@ -78,7 +114,7 @@
         ],
         "hash": "http://geohash.org/wugtz89sqz5q",
         "label": "\n徳之島町亀津",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/7it6o3W2h78PZmcc9"
+        "uri": "https://kuniezu.web.app/api/place/7it6o3W2h78PZmcc9"
     },
     "https://goo.gl/maps/8J9Ma2uCP5yEvUpW6": {
         "geo": [
@@ -87,7 +123,7 @@
         ],
         "hash": "http://geohash.org/wv5bsr1759nv",
         "label": "宇検村平田",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/8J9Ma2uCP5yEvUpW6"
+        "uri": "https://kuniezu.web.app/api/place/8J9Ma2uCP5yEvUpW6"
     },
     "https://goo.gl/maps/8hm4kfsugULBJTb5A": {
         "geo": [
@@ -96,7 +132,7 @@
         ],
         "hash": "http://geohash.org/wug7vc1qkzbk",
         "label": "知名町上城・新城",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/8hm4kfsugULBJTb5A"
+        "uri": "https://kuniezu.web.app/api/place/8hm4kfsugULBJTb5A"
     },
     "https://goo.gl/maps/8qf2Xp1G3nPRZ5xn6": {
         "geo": [
@@ -105,7 +141,25 @@
         ],
         "hash": "http://geohash.org/wv5buwtrpjkh",
         "label": "宇検村宇検",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/8qf2Xp1G3nPRZ5xn6"
+        "uri": "https://kuniezu.web.app/api/place/8qf2Xp1G3nPRZ5xn6"
+    },
+    "https://goo.gl/maps/9E8TkmLaGfBY2WyH9": {
+        "geo": [
+            26.637249,
+            128.111594
+        ],
+        "hash": "http://geohash.org/wuepe30j0x05",
+        "label": "大宜味村白浜・江洲（GMに江洲の地名登録なし）",
+        "uri": "https://kuniezu.web.app/api/place/9E8TkmLaGfBY2WyH9"
+    },
+    "https://goo.gl/maps/9Ts6zinPuFFqvH9p9": {
+        "geo": [
+            27.699094,
+            128.927623
+        ],
+        "hash": "http://geohash.org/wugttf6nzm7e",
+        "label": "伊仙町阿三、現鹿浦川に相当する（JNママ）",
+        "uri": "https://kuniezu.web.app/api/place/9Ts6zinPuFFqvH9p9"
     },
     "https://goo.gl/maps/9W1vhfh9JkQhLZnT6": {
         "geo": [
@@ -114,7 +168,16 @@
         ],
         "hash": "http://geohash.org/wv5cp7r4rgy5",
         "label": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）GＭ等で判断",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/9W1vhfh9JkQhLZnT6"
+        "uri": "https://kuniezu.web.app/api/place/9W1vhfh9JkQhLZnT6"
+    },
+    "https://goo.gl/maps/9cAzoKwtxv8g7G9Y7": {
+        "geo": [
+            26.643271,
+            128.179638
+        ],
+        "hash": "http://geohash.org/wuepsf38619q",
+        "label": "東村川田",
+        "uri": "https://kuniezu.web.app/api/place/9cAzoKwtxv8g7G9Y7"
     },
     "https://goo.gl/maps/Anw8arjo6o8YzHhZ7": {
         "geo": [
@@ -123,7 +186,7 @@
         ],
         "hash": "http://geohash.org/wv5bmyzw9peh",
         "label": "瀬戸内町小名瀬、現阿丹花﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/Anw8arjo6o8YzHhZ7"
+        "uri": "https://kuniezu.web.app/api/place/Anw8arjo6o8YzHhZ7"
     },
     "https://goo.gl/maps/Aztabh6DE8Ur6B3E9": {
         "geo": [
@@ -132,7 +195,7 @@
         ],
         "hash": "http://geohash.org/wvh15efemxut",
         "label": "名瀬市小湊",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/Aztabh6DE8Ur6B3E9"
+        "uri": "https://kuniezu.web.app/api/place/Aztabh6DE8Ur6B3E9"
     },
     "https://goo.gl/maps/Bbhbr3UYpQEXKEXZ7": {
         "geo": [
@@ -141,7 +204,16 @@
         ],
         "hash": "http://geohash.org/wv5bpzw2trbt",
         "label": "瀬戸内町節子（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/Bbhbr3UYpQEXKEXZ7"
+        "uri": "https://kuniezu.web.app/api/place/Bbhbr3UYpQEXKEXZ7"
+    },
+    "https://goo.gl/maps/C44BREY9MuPrGeEh6": {
+        "geo": [
+            27.414704,
+            128.647747
+        ],
+        "hash": "http://geohash.org/wug7zqwqjz0z",
+        "label": "和泊町和泊・伊延",
+        "uri": "https://kuniezu.web.app/api/place/C44BREY9MuPrGeEh6"
     },
     "https://goo.gl/maps/CVg39M4dyTWBYJC67": {
         "geo": [
@@ -150,7 +222,7 @@
         ],
         "hash": "http://geohash.org/wvh135e7r57b",
         "label": "大和村湯湾釜",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/CVg39M4dyTWBYJC67"
+        "uri": "https://kuniezu.web.app/api/place/CVg39M4dyTWBYJC67"
     },
     "https://goo.gl/maps/CuJjgj1GtBMVrAKY9": {
         "geo": [
@@ -159,7 +231,7 @@
         ],
         "hash": "http://geohash.org/wv5buwtrpjkh",
         "label": "宇検村大字宇検、現クラキ鼻",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/CuJjgj1GtBMVrAKY9"
+        "uri": "https://kuniezu.web.app/api/place/CuJjgj1GtBMVrAKY9"
     },
     "https://goo.gl/maps/DRBXGBizoBwdmjWV8": {
         "geo": [
@@ -168,7 +240,7 @@
         ],
         "hash": "http://geohash.org/wv5btwndvzbh",
         "label": "瀬戸内町古志",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/DRBXGBizoBwdmjWV8"
+        "uri": "https://kuniezu.web.app/api/place/DRBXGBizoBwdmjWV8"
     },
     "https://goo.gl/maps/DkBkpxTAQePYFD85A": {
         "geo": [
@@ -177,7 +249,7 @@
         ],
         "hash": "http://geohash.org/wv5bmyzw9peh",
         "label": "（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/DkBkpxTAQePYFD85A"
+        "uri": "https://kuniezu.web.app/api/place/DkBkpxTAQePYFD85A"
     },
     "https://goo.gl/maps/Dpx2FAjmHSpkfy1GA": {
         "geo": [
@@ -186,7 +258,16 @@
         ],
         "hash": "http://geohash.org/wug7t5drkmy2",
         "label": "知名町徳時",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/Dpx2FAjmHSpkfy1GA"
+        "uri": "https://kuniezu.web.app/api/place/Dpx2FAjmHSpkfy1GA"
+    },
+    "https://goo.gl/maps/DuAqR8wyoqFnspyQ8": {
+        "geo": [
+            27.733007,
+            129.003819
+        ],
+        "hash": "http://geohash.org/wugtz89sqz5q",
+        "label": "徳之島町亀津",
+        "uri": "https://kuniezu.web.app/api/place/DuAqR8wyoqFnspyQ8"
     },
     "https://goo.gl/maps/DvbJWEU4CtJugsfD7": {
         "geo": [
@@ -195,7 +276,34 @@
         ],
         "hash": "http://geohash.org/wv5by6qunqkx",
         "label": "宇検村部連、現キャギ﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/DvbJWEU4CtJugsfD7"
+        "uri": "https://kuniezu.web.app/api/place/DvbJWEU4CtJugsfD7"
+    },
+    "https://goo.gl/maps/EFixpQVXtPcHGcqZ9": {
+        "geo": [
+            24.781051,
+            125.274551
+        ],
+        "hash": "http://geohash.org/wu3hfxq0hdex",
+        "label": "平良市松原（私見）",
+        "uri": "https://kuniezu.web.app/api/place/EFixpQVXtPcHGcqZ9"
+    },
+    "https://goo.gl/maps/EbkQX5yBy2sVC8h47": {
+        "geo": [
+            24.8038,
+            125.292186
+        ],
+        "hash": "http://geohash.org/wu3j556uxe3n",
+        "label": "平良市東仲宗根",
+        "uri": "https://kuniezu.web.app/api/place/EbkQX5yBy2sVC8h47"
+    },
+    "https://goo.gl/maps/FDWefMwLAaHedwiu7": {
+        "geo": [
+            27.353261,
+            128.550833
+        ],
+        "hash": "http://geohash.org/wug7t5xb792t",
+        "label": "知名町屋子母",
+        "uri": "https://kuniezu.web.app/api/place/FDWefMwLAaHedwiu7"
     },
     "https://goo.gl/maps/FY6vdfqwVwSoxYZXA": {
         "geo": [
@@ -204,7 +312,7 @@
         ],
         "hash": "http://geohash.org/wv5cp7r4rgy5",
         "label": "大和村大金久、現ウツ﨑（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/FY6vdfqwVwSoxYZXA"
+        "uri": "https://kuniezu.web.app/api/place/FY6vdfqwVwSoxYZXA"
     },
     "https://goo.gl/maps/FZxuCc8HiXmVNLTJA": {
         "geo": [
@@ -213,7 +321,7 @@
         ],
         "hash": "http://geohash.org/wv5bmyyysxkw",
         "label": "瀬戸内町小名瀬（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/FZxuCc8HiXmVNLTJA"
+        "uri": "https://kuniezu.web.app/api/place/FZxuCc8HiXmVNLTJA"
     },
     "https://goo.gl/maps/GGgdyzK3RRp9mJMw7": {
         "geo": [
@@ -222,7 +330,34 @@
         ],
         "hash": "http://geohash.org/wvh2uuhnyp2k",
         "label": "喜界町上嘉鉄",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7"
+        "uri": "https://kuniezu.web.app/api/place/GGgdyzK3RRp9mJMw7"
+    },
+    "https://goo.gl/maps/GMUdtS3W1K8t2wW39": {
+        "geo": [
+            27.842385,
+            128.958648
+        ],
+        "hash": "http://geohash.org/wugwqs8cdk9r",
+        "label": "徳之島町山、現金間﨑（地理院地図）",
+        "uri": "https://kuniezu.web.app/api/place/GMUdtS3W1K8t2wW39"
+    },
+    "https://goo.gl/maps/H2t36SM2ujJqZF1b9": {
+        "geo": [
+            24.672033,
+            124.696773
+        ],
+        "hash": "http://geohash.org/wu2sme3mj2m1",
+        "label": "多良間島（私見）",
+        "uri": "https://kuniezu.web.app/api/place/H2t36SM2ujJqZF1b9"
+    },
+    "https://goo.gl/maps/HzS1XR2CC1BBBQNdA": {
+        "geo": [
+            24.394567,
+            123.863646
+        ],
+        "hash": "http://geohash.org/wu24f8fu8hus",
+        "label": "竹富町高那",
+        "uri": "https://kuniezu.web.app/api/place/HzS1XR2CC1BBBQNdA"
     },
     "https://goo.gl/maps/JJRwLDUaJ4UsoNZ29": {
         "geo": [
@@ -231,7 +366,7 @@
         ],
         "hash": "http://geohash.org/wvh3hccvrvrc",
         "label": "喜界町湾",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/JJRwLDUaJ4UsoNZ29"
+        "uri": "https://kuniezu.web.app/api/place/JJRwLDUaJ4UsoNZ29"
     },
     "https://goo.gl/maps/JZiMQaxy8ZVxAPwZ8": {
         "geo": [
@@ -240,7 +375,7 @@
         ],
         "hash": "http://geohash.org/wv5bmyyysxkw",
         "label": "瀬戸内町小名瀬（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/JZiMQaxy8ZVxAPwZ8"
+        "uri": "https://kuniezu.web.app/api/place/JZiMQaxy8ZVxAPwZ8"
     },
     "https://goo.gl/maps/K9fNh2ua3neKVu8D9": {
         "geo": [
@@ -249,7 +384,16 @@
         ],
         "hash": "http://geohash.org/wv5cp7r4rgy5",
         "label": "大和村大金久（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/K9fNh2ua3neKVu8D9"
+        "uri": "https://kuniezu.web.app/api/place/K9fNh2ua3neKVu8D9"
+    },
+    "https://goo.gl/maps/KVfMV9PVfrKX5adz9": {
+        "geo": [
+            24.816772,
+            125.294106
+        ],
+        "hash": "http://geohash.org/wu3j5ju2hm8g",
+        "label": NaN,
+        "uri": "https://kuniezu.web.app/api/place/KVfMV9PVfrKX5adz9"
     },
     "https://goo.gl/maps/KgFYiEQ6oS2rGE1C9": {
         "geo": [
@@ -258,7 +402,7 @@
         ],
         "hash": "http://geohash.org/wv5cp7r4rgy5",
         "label": "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）GＭ等で判断",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/KgFYiEQ6oS2rGE1C9"
+        "uri": "https://kuniezu.web.app/api/place/KgFYiEQ6oS2rGE1C9"
     },
     "https://goo.gl/maps/KuTnAccJLxAnaxQq6": {
         "geo": [
@@ -267,7 +411,7 @@
         ],
         "hash": "http://geohash.org/wv5bg8vmsmf1",
         "label": "宇検村屋鈍、現屋鈍﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/KuTnAccJLxAnaxQq6"
+        "uri": "https://kuniezu.web.app/api/place/KuTnAccJLxAnaxQq6"
     },
     "https://goo.gl/maps/LC8A1k2Wb1HMzCDx9": {
         "geo": [
@@ -276,7 +420,7 @@
         ],
         "hash": "http://geohash.org/wv5btwndvzbh",
         "label": "瀬戸内町古志、現佐栄﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/LC8A1k2Wb1HMzCDx9"
+        "uri": "https://kuniezu.web.app/api/place/LC8A1k2Wb1HMzCDx9"
     },
     "https://goo.gl/maps/MEPaXa1uMLaZzpHN8": {
         "geo": [
@@ -285,7 +429,7 @@
         ],
         "hash": "http://geohash.org/wvh2uryqp2pn",
         "label": "喜界町荒木　現荒木崎（地理院）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/MEPaXa1uMLaZzpHN8"
+        "uri": "https://kuniezu.web.app/api/place/MEPaXa1uMLaZzpHN8"
     },
     "https://goo.gl/maps/MMyQgPXqSFXPw2mX7": {
         "geo": [
@@ -294,7 +438,7 @@
         ],
         "hash": "http://geohash.org/wv5buv2ysbku",
         "label": "大島郡宇検村大字久志 枝手久島\n、現赤﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/MMyQgPXqSFXPw2mX7"
+        "uri": "https://kuniezu.web.app/api/place/MMyQgPXqSFXPw2mX7"
     },
     "https://goo.gl/maps/RUPanRLobG7aQVVX8": {
         "geo": [
@@ -303,7 +447,7 @@
         ],
         "hash": "http://geohash.org/wugtteesdsb8",
         "label": "伊仙町阿権",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/RUPanRLobG7aQVVX8"
+        "uri": "https://kuniezu.web.app/api/place/RUPanRLobG7aQVVX8"
     },
     "https://goo.gl/maps/RWtjZaNFUxx8db5F8": {
         "geo": [
@@ -312,7 +456,7 @@
         ],
         "hash": "http://geohash.org/wv5cju8bdpc8",
         "label": "大和村今里、現アヨ﨑",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/RWtjZaNFUxx8db5F8"
+        "uri": "https://kuniezu.web.app/api/place/RWtjZaNFUxx8db5F8"
     },
     "https://goo.gl/maps/RYCMjuHyw79ewx9RA": {
         "geo": [
@@ -321,7 +465,7 @@
         ],
         "hash": "http://geohash.org/wvh10j495vkq",
         "label": "大和村大和浜大和浜湊（＝思勝湾）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/RYCMjuHyw79ewx9RA"
+        "uri": "https://kuniezu.web.app/api/place/RYCMjuHyw79ewx9RA"
     },
     "https://goo.gl/maps/S1xfk8rSY4BDvk8N9": {
         "geo": [
@@ -330,7 +474,16 @@
         ],
         "hash": "http://geohash.org/wvh1sgevdxds",
         "label": "龍郷町浦",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/S1xfk8rSY4BDvk8N9"
+        "uri": "https://kuniezu.web.app/api/place/S1xfk8rSY4BDvk8N9"
+    },
+    "https://goo.gl/maps/TTsEYjCvZ3guAofq7": {
+        "geo": [
+            26.785306,
+            128.220085
+        ],
+        "hash": "http://geohash.org/wug0msp58wby",
+        "label": "国頭村佐手",
+        "uri": "https://kuniezu.web.app/api/place/TTsEYjCvZ3guAofq7"
     },
     "https://goo.gl/maps/TnhcBS9NuZFgfeBW9": {
         "geo": [
@@ -339,7 +492,7 @@
         ],
         "hash": "http://geohash.org/wvh15efemxut",
         "label": "名瀬市小湊、現仲干瀬﨑（地理院地図）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/TnhcBS9NuZFgfeBW9"
+        "uri": "https://kuniezu.web.app/api/place/TnhcBS9NuZFgfeBW9"
     },
     "https://goo.gl/maps/W5ywYCQuZ2Yuf6mg6": {
         "geo": [
@@ -348,7 +501,7 @@
         ],
         "hash": "http://geohash.org/wv5bmyyysxkw",
         "label": "瀬戸内町小名瀬",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/W5ywYCQuZ2Yuf6mg6"
+        "uri": "https://kuniezu.web.app/api/place/W5ywYCQuZ2Yuf6mg6"
     },
     "https://goo.gl/maps/XPxusfgywCvV4rUZ6": {
         "geo": [
@@ -357,7 +510,7 @@
         ],
         "hash": "http://geohash.org/wug7t8371z76",
         "label": "知名町知名",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/XPxusfgywCvV4rUZ6"
+        "uri": "https://kuniezu.web.app/api/place/XPxusfgywCvV4rUZ6"
     },
     "https://goo.gl/maps/YgnWDb2d27HwZ1aHA": {
         "geo": [
@@ -366,7 +519,16 @@
         ],
         "hash": "http://geohash.org/wugwqs8cdk9r",
         "label": "徳之島町花徳",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/YgnWDb2d27HwZ1aHA"
+        "uri": "https://kuniezu.web.app/api/place/YgnWDb2d27HwZ1aHA"
+    },
+    "https://goo.gl/maps/YnFyw1zozxYf28Ht7": {
+        "geo": [
+            27.805797,
+            128.965088
+        ],
+        "hash": "http://geohash.org/wugwntvs825r",
+        "label": "徳之島町井之川",
+        "uri": "https://kuniezu.web.app/api/place/YnFyw1zozxYf28Ht7"
     },
     "https://goo.gl/maps/ZBPLqAyUPGDeR7is9": {
         "geo": [
@@ -375,7 +537,7 @@
         ],
         "hash": "http://geohash.org/wv5btwndvzbh",
         "label": "瀬戸内町古志（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/ZBPLqAyUPGDeR7is9"
+        "uri": "https://kuniezu.web.app/api/place/ZBPLqAyUPGDeR7is9"
     },
     "https://goo.gl/maps/aPxUgDJ9KP2FLFkN7": {
         "geo": [
@@ -384,7 +546,16 @@
         ],
         "hash": "http://geohash.org/wvh3mb01w0w3",
         "label": "喜界町伊砂",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7"
+        "uri": "https://kuniezu.web.app/api/place/aPxUgDJ9KP2FLFkN7"
+    },
+    "https://goo.gl/maps/arCMoAPnThaJxB2E7": {
+        "geo": [
+            24.672033,
+            124.696773
+        ],
+        "hash": "http://geohash.org/wu2sme3mj2m1",
+        "label": "多良間島（私見）",
+        "uri": "https://kuniezu.web.app/api/place/arCMoAPnThaJxB2E7"
     },
     "https://goo.gl/maps/bwbNnR6v6We3aGVy6": {
         "geo": [
@@ -393,7 +564,7 @@
         ],
         "hash": "http://geohash.org/wv5bs6deb78t",
         "label": "瀬戸内町花天、現チチエン﨑（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/bwbNnR6v6We3aGVy6"
+        "uri": "https://kuniezu.web.app/api/place/bwbNnR6v6We3aGVy6"
     },
     "https://goo.gl/maps/dCaUvhbCwgM5eV6XA": {
         "geo": [
@@ -402,7 +573,16 @@
         ],
         "hash": "http://geohash.org/wug7ybvb3x65",
         "label": "和泊町大城",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/dCaUvhbCwgM5eV6XA"
+        "uri": "https://kuniezu.web.app/api/place/dCaUvhbCwgM5eV6XA"
+    },
+    "https://goo.gl/maps/ei95ZPZWqVCjJqsZ7": {
+        "geo": [
+            26.248397,
+            127.691388
+        ],
+        "hash": "http://geohash.org/wudv3dq5bzzg",
+        "label": "浦添市小湾・西洲一～二丁目",
+        "uri": "https://kuniezu.web.app/api/place/ei95ZPZWqVCjJqsZ7"
     },
     "https://goo.gl/maps/faTNgJXFXbAKvu4aA": {
         "geo": [
@@ -411,7 +591,7 @@
         ],
         "hash": "http://geohash.org/wvh1kee6k1hs",
         "label": "龍郷町戸口",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/faTNgJXFXbAKvu4aA"
+        "uri": "https://kuniezu.web.app/api/place/faTNgJXFXbAKvu4aA"
     },
     "https://goo.gl/maps/gmAXLdw4MkYP4DzV9": {
         "geo": [
@@ -420,7 +600,16 @@
         ],
         "hash": "http://geohash.org/wv5bshhexbvj",
         "label": "瀬戸内町管鈍（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/gmAXLdw4MkYP4DzV9"
+        "uri": "https://kuniezu.web.app/api/place/gmAXLdw4MkYP4DzV9"
+    },
+    "https://goo.gl/maps/gokkQ7UVFEn9a6Yq6": {
+        "geo": [
+            24.395552,
+            123.754286
+        ],
+        "hash": "http://geohash.org/wu24b1547ueb",
+        "label": "竹富町西表",
+        "uri": "https://kuniezu.web.app/api/place/gokkQ7UVFEn9a6Yq6"
     },
     "https://goo.gl/maps/kyEtuuvj8NFxuDD9A": {
         "geo": [
@@ -429,7 +618,7 @@
         ],
         "hash": "http://geohash.org/wvh1ezt5t2yg",
         "label": "龍郷町秋名　現武運崎（地理院）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/kyEtuuvj8NFxuDD9A"
+        "uri": "https://kuniezu.web.app/api/place/kyEtuuvj8NFxuDD9A"
     },
     "https://goo.gl/maps/rWrEJJiVNv11aCma7": {
         "geo": [
@@ -438,7 +627,25 @@
         ],
         "hash": "http://geohash.org/wv5bs6deb78t",
         "label": "瀬戸内町花天（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/rWrEJJiVNv11aCma7"
+        "uri": "https://kuniezu.web.app/api/place/rWrEJJiVNv11aCma7"
+    },
+    "https://goo.gl/maps/rZhhyRVD8BNGYBhd8": {
+        "geo": [
+            27.412373,
+            128.674129
+        ],
+        "hash": "http://geohash.org/wugebn38ss8w",
+        "label": "和泊町喜美留",
+        "uri": "https://kuniezu.web.app/api/place/rZhhyRVD8BNGYBhd8"
+    },
+    "https://goo.gl/maps/sUfRNUbHSfAoEMe67": {
+        "geo": [
+            24.341161,
+            124.151274
+        ],
+        "hash": "http://geohash.org/wu263phjw379",
+        "label": "石垣港（私見）",
+        "uri": "https://kuniezu.web.app/api/place/sUfRNUbHSfAoEMe67"
     },
     "https://goo.gl/maps/tpdDmq5cMGFbySr99": {
         "geo": [
@@ -447,7 +654,16 @@
         ],
         "hash": "http://geohash.org/wv5bpzw2trbt",
         "label": "瀬戸内町節子（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/tpdDmq5cMGFbySr99"
+        "uri": "https://kuniezu.web.app/api/place/tpdDmq5cMGFbySr99"
+    },
+    "https://goo.gl/maps/uCzZGPfrawcJ96WX9": {
+        "geo": [
+            27.743222,
+            129.022748
+        ],
+        "hash": "http://geohash.org/wugtzfrrzzmv",
+        "label": "徳之島町亀徳",
+        "uri": "https://kuniezu.web.app/api/place/uCzZGPfrawcJ96WX9"
     },
     "https://goo.gl/maps/uNPQjv1a26MqSwX26": {
         "geo": [
@@ -456,7 +672,7 @@
         ],
         "hash": "http://geohash.org/wvh4n798j14q",
         "label": "笠利町屋仁・川上",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/uNPQjv1a26MqSwX26"
+        "uri": "https://kuniezu.web.app/api/place/uNPQjv1a26MqSwX26"
     },
     "https://goo.gl/maps/ugsqRzTkNdMqjDsk6": {
         "geo": [
@@ -465,7 +681,16 @@
         ],
         "hash": "http://geohash.org/wv5btwndvzbh",
         "label": "瀬戸内町古志（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/ugsqRzTkNdMqjDsk6"
+        "uri": "https://kuniezu.web.app/api/place/ugsqRzTkNdMqjDsk6"
+    },
+    "https://goo.gl/maps/us2WTNYUaDSvrBbdA": {
+        "geo": [
+            27.826952,
+            128.883305
+        ],
+        "hash": "http://geohash.org/wugwkc9zwxvd",
+        "label": "天城町浅間",
+        "uri": "https://kuniezu.web.app/api/place/us2WTNYUaDSvrBbdA"
     },
     "https://goo.gl/maps/wSa1NciDUYeA3swZ6": {
         "geo": [
@@ -474,7 +699,7 @@
         ],
         "hash": "http://geohash.org/wv5btm6xvz87",
         "label": "瀬戸内町久慈、現浜グリ﨑（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/wSa1NciDUYeA3swZ6"
+        "uri": "https://kuniezu.web.app/api/place/wSa1NciDUYeA3swZ6"
     },
     "https://goo.gl/maps/xK4t9Zt8NcxcSBrK6": {
         "geo": [
@@ -483,7 +708,25 @@
         ],
         "hash": "http://geohash.org/wv5by6qunqkx",
         "label": "宇検村須古",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/xK4t9Zt8NcxcSBrK6"
+        "uri": "https://kuniezu.web.app/api/place/xK4t9Zt8NcxcSBrK6"
+    },
+    "https://goo.gl/maps/y3hL9rfkMDwXBsAT9": {
+        "geo": [
+            26.160733,
+            127.797127
+        ],
+        "hash": "http://geohash.org/wuduu47j2fhd",
+        "label": "南城市知念山里、現タマタ島（ＧＭに登録なし）（地理院地図）",
+        "uri": "https://kuniezu.web.app/api/place/y3hL9rfkMDwXBsAT9"
+    },
+    "https://goo.gl/maps/yCtJf2LmEtb6HSJLA": {
+        "geo": [
+            27.770442,
+            129.023072
+        ],
+        "hash": "http://geohash.org/wugtzzrwx3x7",
+        "label": "徳之島町井之川",
+        "uri": "https://kuniezu.web.app/api/place/yCtJf2LmEtb6HSJLA"
     },
     "https://goo.gl/maps/yRuT5srzWWmuiJvn9": {
         "geo": [
@@ -492,7 +735,7 @@
         ],
         "hash": "http://geohash.org/wv5bq5fenqp8",
         "label": "瀬戸内町油井（私見）",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/yRuT5srzWWmuiJvn9"
+        "uri": "https://kuniezu.web.app/api/place/yRuT5srzWWmuiJvn9"
     },
     "https://goo.gl/maps/ycBPBBxMseJhWu3Z7": {
         "geo": [
@@ -501,6 +744,6 @@
         ],
         "hash": "http://geohash.org/wugebn38ss8w",
         "label": "和泊町喜美留",
-        "uri": "https://ryukyu-kuniezu.web.app/api/place/ycBPBBxMseJhWu3Z7"
+        "uri": "https://kuniezu.web.app/api/place/ycBPBBxMseJhWu3Z7"
     }
 }
