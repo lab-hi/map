@@ -27,7 +27,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5658,9851,158,185",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0010\">shoho-aku-0010</a> ]<br/>摩文仁間切<br/>説明文: 五百八十三石餘<br/>Sort: 0554",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0010\">shoho-aku-0010</a> ]<br/>摩文仁間切<br/>Sort: 0554<br/>説明文: 五百八十三石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -54,7 +54,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5184,9623,167,176",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0012\">shoho-aku-0012</a> ]<br/>喜屋武間切<br/>説明文: 五百六十五石餘<br/>Sort: 0556",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0012\">shoho-aku-0012</a> ]<br/>喜屋武間切<br/>Sort: 0556<br/>説明文: 五百六十五石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -108,7 +108,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7043,10821,141,183",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0005\">shoho-aku-0005</a> ]<br/>知念間切<br/>Sort: 0549<br/>説明文: 八百九十八石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0005\">shoho-aku-0005</a> ]<br/>知念間切<br/>説明文: 八百九十八石餘<br/>Sort: 0549",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -162,7 +162,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7144,9752,157,181",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0002\">shoho-aku-0002</a> ]<br/>南風原間切<br/>説明文: 千三百七十五石餘<br/>Sort: 0546",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0002\">shoho-aku-0002</a> ]<br/>南風原間切<br/>Sort: 0546<br/>説明文: 千三百七十五石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -189,7 +189,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7047,10190,151,181",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0003\">shoho-aku-0003</a> ]<br/>嶋添大里間切<br/>説明文: 三千二十九石餘<br/>Sort: 0547",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0003\">shoho-aku-0003</a> ]<br/>嶋添大里間切<br/>Sort: 0547<br/>説明文: 三千二十九石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -270,7 +270,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=6972,10588,155,178",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0004\">shoho-aku-0004</a> ]<br/>佐敷間切<br/>説明文: 九百二十八石餘<br/>Sort: 0548",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-aku-0004\">shoho-aku-0004</a> ]<br/>佐敷間切<br/>Sort: 0548<br/>説明文: 九百二十八石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -363,7 +363,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19706,5135,128,157",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0016\">shoho-oshima-0016</a> ]<br/>名瀬間切之内<br/>説明文: うら村<br/>分類: 村<br/>Sort: 0144",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0016\">shoho-oshima-0016</a> ]<br/>名瀬間切之内<br/>Sort: 0144<br/>説明文: うら村<br/>分類: 村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -417,7 +417,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21206,5357,123,154",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0010\">shoho-oshima-0010</a> ]<br/>笠利間切之内<br/>説明文: あかきな村<br/>分類: 村<br/>Sort: 0138",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0010\">shoho-oshima-0010</a> ]<br/>笠利間切之内<br/>Sort: 0138<br/>分類: 村<br/>説明文: あかきな村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -498,7 +498,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=20482,5824,132,168",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0009\">shoho-oshima-0009</a> ]<br/>笠利間切之内<br/>分類: 村<br/>説明文: 喜瀬村<br/>Sort: 0137",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0009\">shoho-oshima-0009</a> ]<br/>笠利間切之内<br/>分類: 村<br/>Sort: 0137<br/>説明文: 喜瀬村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -525,10 +525,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21719,8305,57,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0003\">shoho-kikai-0003</a> ]<br/>おかミ山<br/>分類: 山<br/>Sort: 0200",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0003\">shoho-kikai-0003</a> ]<br/>おかミ山<br/>Sort: 0200<br/>分類: 山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%234D4D4D&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -579,7 +579,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22091,8346,125,163",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0002\">shoho-oshima-0002</a> ]<br/>東間切<br/>Sort: 0130<br/>分類: 村<br/>説明文: 千九百八十六石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0002\">shoho-oshima-0002</a> ]<br/>東間切<br/>分類: 村<br/>Sort: 0130<br/>説明文: 千九百八十六石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -606,10 +606,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21164,7644,62,143",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0008\">shoho-kikai-0008</a> ]<br/>はいき崎<br/>分類: 崎<br/>Sort: 0205",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0008\">shoho-kikai-0008</a> ]<br/>はいき崎<br/>Sort: 0205<br/>分類: 崎",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -636,7 +636,7 @@
                                         "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0009\">shoho-kikai-0009</a> ]<br/>あら崎<br/>分類: 崎<br/>Sort: 0206",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -660,7 +660,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22036,8072,143,164",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0003\">shoho-oshima-0003</a> ]<br/>西目間切之内<br/>Sort: 0131<br/>分類: 村<br/>説明文: いしやく村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0003\">shoho-oshima-0003</a> ]<br/>西目間切之内<br/>分類: 村<br/>Sort: 0131<br/>説明文: いしやく村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -690,7 +690,7 @@
                                         "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0010\">shoho-kikai-0010</a> ]<br/>しつる崎<br/>Sort: 0207<br/>分類: 崎",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -714,7 +714,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21757,8016,140,159",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0004\">shoho-oshima-0004</a> ]<br/>西目間切<br/>分類: 村<br/>Sort: 0132<br/>説明文: 千五十石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0004\">shoho-oshima-0004</a> ]<br/>西目間切<br/>Sort: 0132<br/>分類: 村<br/>説明文: 千五十石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -768,7 +768,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21432,7977,174,604",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0001\">shoho-kikai-0001</a> ]<br/>高六千九百三十二石四斗<br/>Sort: 0198<br/>説明文: 嶋廻六里二十四町",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0001\">shoho-kikai-0001</a> ]<br/>高六千九百三十二石四斗<br/>説明文: 嶋廻六里二十四町<br/>Sort: 0198",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -822,7 +822,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21276,7967,120,164",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0005\">shoho-oshima-0005</a> ]<br/>わん間切<br/>分類: 村<br/>Sort: 0133<br/>説明文: 千八百六十二石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0005\">shoho-oshima-0005</a> ]<br/>わん間切<br/>分類: 村<br/>説明文: 千八百六十二石餘<br/>Sort: 0133",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -852,7 +852,7 @@
                                         "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0011\">shoho-kikai-0011</a> ]<br/>かまふ﨑<br/>Sort: 0208<br/>分類: 崎",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -876,7 +876,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21393,5016,127,157",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0011\">shoho-oshima-0011</a> ]<br/>笠利間切之内<br/>分類: 村<br/>Sort: 0139<br/>説明文: やん村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0011\">shoho-oshima-0011</a> ]<br/>笠利間切之内<br/>分類: 村<br/>説明文: やん村<br/>Sort: 0139",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -960,7 +960,7 @@
                                         "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0004\">shoho-kikai-0004</a> ]<br/>とひよ崎<br/>分類: 崎<br/>Sort: 0201",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -1011,7 +1011,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21269,8405,136,157",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0007\">shoho-oshima-0007</a> ]<br/>荒木間切<br/>Sort: 0135<br/>説明文: しつる村<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0007\">shoho-oshima-0007</a> ]<br/>荒木間切<br/>分類: 村<br/>Sort: 0135<br/>説明文: しつる村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1038,10 +1038,10 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22499,7702,79,169",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0005\">shoho-kikai-0005</a> ]<br/>をのつ崎<br/>Sort: 0202<br/>分類: 崎",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0005\">shoho-kikai-0005</a> ]<br/>をのつ崎<br/>分類: 崎<br/>Sort: 0202",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
+                                            "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23999999&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -1065,7 +1065,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19622,4546,144,160",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0017\">shoho-oshima-0017</a> ]<br/>名瀬間切<br/>Sort: 0145<br/>説明文: 千四百十九石餘",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0017\">shoho-oshima-0017</a> ]<br/>名瀬間切<br/>説明文: 千四百十九石餘<br/>Sort: 0145",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1092,7 +1092,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21302,7916,39,63",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0007\">shoho-kikai-0007</a> ]<br/>わん泊<br/>Sort: 0204<br/>説明文: 此わん泊湊入一町半廣さ一町深さ四尋瀬有之故、大船出入不自由、北風西風之時船かゝり不成",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-kikai-0007\">shoho-kikai-0007</a> ]<br/>わん泊<br/>説明文: 此わん泊湊入一町半廣さ一町深さ四尋瀬有之故、大船出入不自由、北風西風之時船かゝり不成<br/>Sort: 0204",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1119,7 +1119,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21669,5505,134,165",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0012\">shoho-oshima-0012</a> ]<br/>笠利間切<br/>説明文: 千二石餘<br/>Sort: 0140",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0012\">shoho-oshima-0012</a> ]<br/>笠利間切<br/>Sort: 0140<br/>説明文: 千二石餘",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1146,7 +1146,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22491,8194,139,167",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0001\">shoho-oshima-0001</a> ]<br/>志戸桶間切<br/>説明文: 七百十二石餘<br/>Sort: 0129<br/>分類: 村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-oshima-0001\">shoho-oshima-0001</a> ]<br/>志戸桶間切<br/>Sort: 0129<br/>説明文: 七百十二石餘<br/>分類: 村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%230062B1&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1185,7 +1185,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=5700,6810,140,185",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0047\">shoho-yashima-0047</a> ]<br/>入表間切之内<br/>説明文: ふなうけ村<br/>Sort: 0883",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0047\">shoho-yashima-0047</a> ]<br/>入表間切之内<br/>Sort: 0883<br/>説明文: ふなうけ村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1212,7 +1212,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=6230,6807,145,185",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0046\">shoho-yashima-0046</a> ]<br/>入表間切之内<br/>Sort: 0882<br/>説明文: なるや村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0046\">shoho-yashima-0046</a> ]<br/>入表間切之内<br/>説明文: なるや村<br/>Sort: 0882",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1266,7 +1266,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=21976,7146,141,174",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0002\">shoho-yashima-0002</a> ]<br/>嶋尻村<br/>説明文: かりまた間切之内<br/>Sort: 0838",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0002\">shoho-yashima-0002</a> ]<br/>嶋尻村<br/>Sort: 0838<br/>説明文: かりまた間切之内",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1293,7 +1293,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=8338,7100,149,180",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0036\">shoho-yashima-0036</a> ]<br/>こみ間切之内<br/>説明文: ひけ川村<br/>Sort: 0872",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0036\">shoho-yashima-0036</a> ]<br/>こみ間切之内<br/>Sort: 0872<br/>説明文: ひけ川村",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
@@ -1401,7 +1401,7 @@
                                     "on": "https://lab-hi.github.io/map/iiif/2/manifest.json/canvas/p1#xywh=8486,7893,139,175",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0037\">shoho-yashima-0037</a> ]<br/>こみ間切之内<br/>Sort: 0873<br/>説明文: 平川村",
+                                        "chars": "[ <a href=\"https://kuniezu.web.app/item/shoho-yashima-0037\">shoho-yashima-0037</a> ]<br/>こみ間切之内<br/>説明文: 平川村<br/>Sort: 0873",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://cdn.mapmarker.io/api/v1/pin?size=25&background=%23D33115&color=%23FFFFFF&voffset=0&hoffset=1&icon=fa-circle#xy=12,22",
