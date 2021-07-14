@@ -1,0 +1,2 @@
+uri,dcterms:identifier,rdfs:label,schema:image,schema:url,description:curation,temporal:label,schema:temporal,description:本文,schema:spatial,jps:sourceInfo
+http://example.org/data/shoho-0001,shoho-0001,正保琉球国絵図写,"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/24853,1035,67,41/200,/0/default.jpg",https://hi-ut.github.io/map/iiif/efd483100f1b1b1f8cf5781af08b6325/manifest.json,https://hi-ut.github.io/map/curation/shoho-0001.json,,,,,http://example.org/data/W23
